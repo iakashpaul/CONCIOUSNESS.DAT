@@ -29,4 +29,12 @@ Depending on the form factors these could be quadruped/Spot like or droid/Chappi
 
   
 <hr>
+
+### Supplementary Media
+Felix questioning himself-
+
+<img src="felix-self-doubt.png" width="750px">
+
+Chappie being asked to paint what it sees-
+
 <img src="chappie-painting.jpg" width="750px">

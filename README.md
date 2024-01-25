@@ -15,7 +15,7 @@ An experimental framework for embodiment of LLMs for real world hardware/robots,
 
 ## Hardware
 
-Depending on the form factors these could be quadruped/Spot like or droid/Chappie-esque but all joints to be compliant mechanisms using SimpleFOC driven motors
+Depending on the form factors these could be quadruped/Spot-like or droid/Chappie-esque but all joints to be compliant mechanisms using SimpleFOC driven motors
 
 ## Goals
 
